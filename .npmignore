@@ -1,0 +1,6 @@
+node_modules/
+test/
+.jshintrc
+gulpfile.js
+gulpfile.base.js
+package-lock.json
